@@ -14,7 +14,7 @@ This order summary card showcases a clean and elegant UI, designed to fit seamle
 - **Responsive Design**: Ensures optimal viewing experience across various devices, from desktops to smartphones.
 - **Interactive Elements**: Includes hover effects to enhance user interaction.
 - **Modern CSS Techniques**: Utilizes Flexbox and Grid layouts for a robust and adaptable structure.
-- **Clean Code**: Written with readability and maintainability in mind, following best practices in HTML, CSS, and JavaScript.
+- **Clean Code**: Written with readability and maintainability in mind, following best practices in HTML and CSS.
 
 ### 🚀 Technologies Used
 
